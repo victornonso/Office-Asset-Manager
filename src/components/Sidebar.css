@@ -1,0 +1,23 @@
+.side-bar {
+    margin-top: 1rem;
+    width: min-content;
+    border-right: double;
+}
+.side-bar li {
+    list-style-type: none;
+    padding: 0.5rem 0.1rem;
+    margin: 30px 30px 0 0;
+    background-color: rgba(128, 128, 128, 0.486);
+    width: 8rem;
+    border-top-right-radius: 20rem;
+    border-bottom-right-radius: 20rem;
+    text-align: center;
+}
+.side-bar img {
+    position: relative;
+}
+.side-bar .cam-icon {
+    position: absolute;
+    top: 188px;
+    left: 80px;
+}
